@@ -1,1 +1,2 @@
 # Aplicativo-de-Captura-e-Exibi-o-de-Nomes
+Este projeto de console em C# foi criado para capturar e exibir uma lista de 15 nomes inseridos pelo usuário. O programa solicita ao usuário que digite os nomes, um por vez, armazena-os em um array e, em seguida, os exibe na mesma ordem em que foram inseridos. A aplicação utiliza loops for para a entrada e saída de dados, proporcionando uma experiência simples e prática para quem está aprendendo manipulação de strings e arrays. É ideal para explorar a lógica de iteração e armazenamento de informações em estruturas de dados básicas.
